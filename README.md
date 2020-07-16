@@ -1,4 +1,5 @@
 # Career Conversations
+This document is based on my experience in different companies and the templates I used there
 
 Life Story
 ==========
