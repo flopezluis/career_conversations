@@ -74,13 +74,15 @@ Long term 
 
 If you had to choose one thing, what would it be?
 ==========
+(Using [grow](https://www.mindtools.com/pages/article/newLDR_89.htm))
 
 **Goal: What do you want?**
 
 Establish what the team member really wants to achieve with their career.
 
-|\
- |
+
+
+|________________________________________________________________________|\
 
 Sample questions to ask:
 
@@ -92,8 +94,7 @@ Sample questions to ask:
 
 Establish the team member's understanding of their current role and skills.
 
-|\
- |
+|________________________________________________________________________|\
 
 Sample questions to ask:
 
@@ -107,9 +108,7 @@ Sample questions to ask:
 
 Generate multiple options for closing the gap from goal to reality.
 
-|\
- |
-
+|________________________________________________________________________|\
 Sample questions to ask:
 
 -   "What can you do right now to further develop skills that would be useful in reaching that goal we talked about earlier?"
@@ -122,8 +121,7 @@ Sample questions to ask:
 
 Identify achievable steps to move from reality to goal.
 
-|\
- |
+|________________________________________________________________________|\
 
 Sample questions to ask: 
 
