@@ -1,4 +1,4 @@
-# career_conversations
+# Career Conversations
 
 Life Story
 ==========
@@ -16,7 +16,7 @@ Tell me in 10 minutes about your career so far. 
 -   Tell me a challenge you are proud of.
 
 What do you seek in your career?
---------------------------------
+==========
 
 (This will help me understand your motivations, for example. If you tell me that you want to be a Tech lead or a manager, that's useful information but it's more important to understand why, what motivates you. In this way I can guide you, I can give you opportunities and help you because becoming a manager or tech lead is the final outcome of a long process).
 
@@ -73,8 +73,9 @@ Long term 
 -   If money or your current skills weren't an issue, what would be your dream role?.
 
 If you had to choose one thing, what would it be?
+==========
 
-Goal: What do you want? 
+**Goal: What do you want?**
 
 Establish what the team member really wants to achieve with their career.
 
@@ -87,7 +88,7 @@ Sample questions to ask:
 
 -   "What are your interests, values, and motivations?"
 
-Reality: What's happening now? 
+**Reality: What's happening now?** 
 
 Establish the team member's understanding of their current role and skills.
 
@@ -102,7 +103,7 @@ Sample questions to ask:
 
 -   "What feedback have you received from other people on your strengths and weaknesses?"
 
-Options: What could you do? 
+**Options: What could you do?** 
 
 Generate multiple options for closing the gap from goal to reality.
 
@@ -117,7 +118,7 @@ Sample questions to ask:
 
 -   "What networking or mentorship options are there?"
 
-Will: What will you do? 
+**Will: What will you do?**
 
 Identify achievable steps to move from reality to goal.
 
