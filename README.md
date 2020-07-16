@@ -82,7 +82,7 @@ Establish what the team member really wants to achieve with their career.
 
 
 
-|________________________________________________________________________|\
+|________________________________________________________________________|
 
 Sample questions to ask:
 
@@ -94,7 +94,7 @@ Sample questions to ask:
 
 Establish the team member's understanding of their current role and skills.
 
-|________________________________________________________________________|\
+|________________________________________________________________________|
 
 Sample questions to ask:
 
@@ -108,7 +108,8 @@ Sample questions to ask:
 
 Generate multiple options for closing the gap from goal to reality.
 
-|________________________________________________________________________|\
+|________________________________________________________________________|
+
 Sample questions to ask:
 
 -   "What can you do right now to further develop skills that would be useful in reaching that goal we talked about earlier?"
@@ -121,7 +122,7 @@ Sample questions to ask:
 
 Identify achievable steps to move from reality to goal.
 
-|________________________________________________________________________|\
+|________________________________________________________________________|
 
 Sample questions to ask: 
 
